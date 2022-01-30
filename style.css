@@ -1,0 +1,55 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    background-image: url(img/green-code.jpg); 
+    background-size: cover; 
+    /* height: 50px;
+    width: 50px; */
+}
+
+.bg{
+    
+    font-family: 'Times New Roman', Times, serif;
+    color: greenyellow;
+    height: 20vh;
+}
+.bg2{
+
+    font-family: 'Quintessential', cursive;
+ 
+    
+    height: 50vh;
+    color: greenyellow;
+}
+.head{
+    display: inline;
+
+    text-decoration: none;
+}
+.ul{
+    padding: 10px;
+    text-decoration: none;
+}
+.a1{
+    padding: 2px;
+    display: inline-block;
+
+}
+.li{     
+    color: antiquewhite;
+    text-decoration: none;
+   
+}
+ header{
+     
+    background-color: green;
+    height: 50px;
+    color: red; 
+}
+
+.footer{
+
+    text-align: center;
+    color: rgb(0, 195, 255);
+}
