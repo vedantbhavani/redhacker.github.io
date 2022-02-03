@@ -2,25 +2,54 @@
 
     margin: 0;
     padding: 0;
-    background-image: url(img/green-code.jpg); 
+   
     background-size: cover; 
     /* height: 50px;
     width: 50px; */
+}
+.link{
+
+    color: lime;
+}
+.about{
+
+    color:lime;
+    font-size: larger;
+
+}
+.cantact{
+
+    /* color:rgb(101, 111, 252); */
+    color: lime;
+    font-size: larger;
+
+}
+.more{
+
+    /* color:rgb(101, 111, 252); */
+    color: lime;
+    font-size: larger;
+}
+.body{
+
+    background-image: url(img/green-code.jpg); 
+
 }
 
 .bg{
     
     font-family: 'Times New Roman', Times, serif;
-    color: greenyellow;
+    color: red;
     height: 20vh;
 }
 .bg2{
 
     font-family: 'Quintessential', cursive;
+    /* height:"device-height"; */
  
     
     height: 50vh;
-    color: greenyellow;
+    color: red;
 }
 .head{
     display: inline;
@@ -49,7 +78,7 @@
 }
 
 .footer{
-
-    text-align: center;
+    align-content: center;
+    text-align:center;
     color: rgb(0, 195, 255);
 }
